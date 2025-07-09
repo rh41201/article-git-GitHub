@@ -1,0 +1,1 @@
+I have written shortcut for learning and Memorizing Git & GitHub.
